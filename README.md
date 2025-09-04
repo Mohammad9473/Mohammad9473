@@ -26,10 +26,6 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&theme=radical" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad9473&theme=radical" height="180em" />
-</p>
-
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mohammad9473&color=blue)
 
@@ -43,6 +39,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
