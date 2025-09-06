@@ -42,8 +42,11 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 
 
 <p>
- <a href="https://analytics-pro-alpha.vercel.app/" />
+ <a href="https://analytics-pro-alpha.vercel.app/">
+ Demo
+ </a>
 </p>
+
 
 
 
