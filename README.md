@@ -17,8 +17,6 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,flutter,docker,kubernetes,aws,azure,postgres,mongodb,tensorflow" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 ## 📊 GitHub Stats  
@@ -41,6 +39,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
