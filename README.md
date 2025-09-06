@@ -16,7 +16,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,swaggerapi,python,django,flutter,docker,kubernetes,aws,azure,postgres,mongodb,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express,bash,bitbucket,bootstrap,css,d3,dynamodb,electron,figma,firebase,git,github,githubactions,html,ai,jenkins,jest,jquery,materialui,mysql,netlify,nginx,npm,opencv,postman,prisma,pug,pycharm,redis,redux,regex,sass,sqlite,stackoverflow,styledcomponents,sequelize,tailwind,ubuntu,vercel,vite,vscode,webpack,python,django,docker,kubernetes,aws,azure,postgres,mongodb,tensorflow" />
 </p>
 
 ## 📊 GitHub Stats  
@@ -46,6 +46,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
  Demo
  </a>
 </p>
+
 
 
 
