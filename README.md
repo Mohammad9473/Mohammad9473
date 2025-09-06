@@ -16,7 +16,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flutter,docker,kubernetes,aws,postgres,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,react,reactnative,python,django,flutter,docker,kubernetes,aws,azure,postgres,mongodb,tensorflow" />
 </p>
 
 ## 📊 GitHub Stats  
@@ -39,6 +39,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
