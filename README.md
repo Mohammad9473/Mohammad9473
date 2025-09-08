@@ -13,6 +13,15 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 
 🌐 Always open to new opportunities and collaborations in the tech space.
 
+
+## 🌐 Live Demo  
+
+<p align="center">
+  <a href="https://analytics-pro-alpha.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -38,13 +47,6 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
   <a href="mailto:mohammad94ameri@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-
-<p>
- <a href="https://analytics-pro-alpha.vercel.app/">
- Demo
- </a>
 </p>
 
 
