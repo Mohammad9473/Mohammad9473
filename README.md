@@ -18,7 +18,16 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 
 <p align="left">
   <a href="https://analytics-pro-alpha.vercel.app/" target="__blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo%201-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://crypto-trading-web-six.vercel.app/" target="__blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo%202-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://personal-nutrition-web.vercel.app/" target="__blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo%203-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href=" https://sim-card-one.vercel.app/" target="__blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo%204-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -48,6 +57,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
