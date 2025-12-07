@@ -48,12 +48,6 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad9473&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&theme=radical" height="180em" />
-</p>
-
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mohammad9473&color=blue)
 
 ## 🤝 Connect With Me  
@@ -66,6 +60,7 @@ I’m a **Full Stack Developer** with **5+ years of experience** building and ma
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
