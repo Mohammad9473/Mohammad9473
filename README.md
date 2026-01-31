@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean Wave Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontColor=ffffff&animation=scale&fontAlignY=40&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=scale&fontAlignY=40&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
 
 <!-- Dynamic Tech Stack Display -->
 <p align="center">
@@ -11,18 +11,6 @@
 <!-- Quick Introduction -->
 <p align="center">
   <i>I build robust applications that solve real-world problems</i>
-</p>
-
-<!-- Tech Pill Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
 </p>
 
 </div>
@@ -69,36 +57,6 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
   </p>
 </div>
 
-### **🟦 Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-### **🟩 Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-### **🟪 Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### **🟧 Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### **🟥 Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
@@ -130,6 +88,7 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
