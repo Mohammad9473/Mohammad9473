@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=200&section=header&text=Mohammad%20Reza%20Arabameri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%205%2B%20Years%20Experience&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=200&section=header&text=Mohammadreza%20Arabameri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%205%2B%20Years%20Experience&descAlignY=65&descAlign=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;5%2B+Years+Experience;React+%7C+Node.js+%7C+Python;Cloud+%7C+DevOps+%7C+Machine+Learning" alt="Typing Animation" />
@@ -111,4 +111,5 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
