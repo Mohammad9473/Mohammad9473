@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&width=700&lines=Frontend+%E2%9A%99%EF%B8%8F+React%2C+Next.js%2C+TypeScript%2C+Tailwind;Backend+%E2%9A%99%EF%B8%8F+Node.js%2C+Python%2C+Django%2C+Express;Database+%E2%9A%99%EF%B8%8F+MongoDB%2C+PostgreSQL%2C+Redis%2C+Firebase;DevOps+%E2%9A%99%EF%B8%8F+AWS%2C+Docker%2C+Kubernetes%2C+CI%2FCD;Machine+Learning+%E2%9A%99%EF%B8%8F+TensorFlow%2C+OpenCV%2C+Scikit-learn" alt="Tech Stack" />
 </p>
 
-<!-- Call to Action -->
-<p align="center">
-  <i>Open to collaborations, innovative projects, and challenging problems</i>
-</p>
-
 </div>
 
 ## 🚀 About Me
@@ -85,11 +80,12 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 <div align="center">
 
 ### ⚡ **Fun Fact**
-*"I code in my sleep... Literally. My best solutions often come when I step away from the keyboard."*
+**I code in my sleep... Literally. My best solutions often come when I step away from the keyboard.
 
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
