@@ -80,11 +80,12 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 <div align="center">
 
 ### ⚡ **Fun Fact**
-**I code in my sleep... Literally. My best solutions often come when I step away from the keyboard.
+I code in my sleep... Literally. My best solutions often come when I step away from the keyboard.
 
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
