@@ -1,8 +1,114 @@
-# 👨‍💻 Mohammadreza Arabameri
+# 👨‍💻 Mohammad Reza Arabameri
 
 <div align="center">
+
+<!-- Animated Banner -->
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Gradient -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2F81F7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6a11cb;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2575fc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6a11cb;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+      <feOffset dx="2" dy="2" result="offsetblur"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-20px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.7; }
+      }
+      @keyframes slide {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+      }
+      .floating { animation: float 3s ease-in-out infinite; }
+      .pulsing { animation: pulse 2s ease-in-out infinite; }
+      .sliding { animation: slide 20s linear infinite; }
+    </style>
+  </defs>
   
-![Header](./MReza.png)
+  <!-- Animated Background -->
+  <rect width="100%" height="100%" fill="url(#grad1)">
+    <animate attributeName="fill" values="url(#grad1);url(#grad2);url(#grad1)" dur="10s" repeatCount="indefinite" />
+  </rect>
+  
+  <!-- Floating Icons -->
+  <g class="floating">
+    <circle cx="200" cy="100" r="40" fill="#2F81F7" opacity="0.1">
+      <animate attributeName="r" values="40;50;40" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1000" cy="300" r="60" fill="#6a11cb" opacity="0.1">
+      <animate attributeName="r" values="60;70;60" dur="5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  
+  <!-- Main Content -->
+  <g filter="url(#shadow)">
+    <!-- Name -->
+    <text x="600" y="180" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">
+      Mohammad Reza Arabameri
+    </text>
+    
+    <!-- Title with typing effect simulation -->
+    <text x="600" y="240" font-family="'Courier New', monospace" font-size="28" fill="#f0f0f0" text-anchor="middle">
+      <tspan>Full Stack Developer</tspan>
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="600" y="290" font-family="Arial, sans-serif" font-size="20" fill="#d0d0ff" text-anchor="middle" class="pulsing">
+      5+ Years Experience | React | Node.js | Python | Cloud | DevOps | ML
+    </text>
+    
+    <!-- Animated Code Brackets -->
+    <text x="400" y="350" font-family="'Courier New', monospace" font-size="24" fill="#2F81F7" class="pulsing">
+      &lt;/
+    </text>
+    <text x="800" y="350" font-family="'Courier New', monospace" font-size="24" fill="#6a11cb" class="pulsing">
+      /&gt;
+    </text>
+  </g>
+  
+  <!-- Animated Tech Tags -->
+  <g font-family="Arial, sans-serif" font-size="14" fill="white">
+    <g transform="translate(300, 330)" class="sliding">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="#2F81F7" opacity="0.8"/>
+      <text x="40" y="19" text-anchor="middle">React</text>
+    </g>
+    <g transform="translate(400, 330)" class="sliding" style="animation-delay: -2s">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="#6a11cb" opacity="0.8"/>
+      <text x="40" y="19" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(500, 330)" class="sliding" style="animation-delay: -4s">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="#2F81F7" opacity="0.8"/>
+      <text x="40" y="19" text-anchor="middle">Python</text>
+    </g>
+    <g transform="translate(600, 330)" class="sliding" style="animation-delay: -6s">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="#6a11cb" opacity="0.8"/>
+      <text x="40" y="19" text-anchor="middle">AWS</text>
+    </g>
+    <g transform="translate(700, 330)" class="sliding" style="animation-delay: -8s">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="#2F81F7" opacity="0.8"/>
+      <text x="40" y="19" text-anchor="middle">Docker</text>
+    </g>
+  </g>
+</svg>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;5%2B+Years+Experience;React+%7C+Node.js+%7C+Python;Cloud+%7C+DevOps+%7C+Machine+Learning" alt="Typing Animation" />
@@ -116,3 +222,4 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
