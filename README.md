@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean Wave Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=From+Concept+to+Production+%7C+End-to-End+Solutions&descAlignY=70)
 
 <!-- Dynamic Tech Stack Display -->
 <p align="center">
