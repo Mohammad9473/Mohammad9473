@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Clean Wave Banner -->
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=From+Concept+to+Production+%7C+End-to-End+Solutions&descAlignY=70)
+<!-- Value-focused Banner -->
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Building+the+Future+with+Code&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=From+Concept+to+Production+%7C+End-to-End+Solutions&descAlignY=70)
 
-<!-- Dynamic Tech Stack Display -->
+<!-- Mission Statement -->
+<h3 align="center">🚀 Transforming Ideas into Scalable Digital Solutions</h3>
+
+<!-- Core Competencies -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=2F81F7&center=true&width=650&height=40&lines=Passionate+about+crafting+elegant+solutions;Specialized+in+Modern+Web+Technologies;Experienced+in+Scalable+Cloud+Architectures;Always+learning%2C+always+building" alt="Profile Description" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F81F7&center=true&width=700&lines=Frontend+%E2%9A%99%EF%B8%8F+React%2C+Next.js%2C+TypeScript%2C+Tailwind;Backend+%E2%9A%99%EF%B8%8F+Node.js%2C+Python%2C+Django%2C+Express;Database+%E2%9A%99%EF%B8%8F+MongoDB%2C+PostgreSQL%2C+Redis%2C+Firebase;DevOps+%E2%9A%99%EF%B8%8F+AWS%2C+Docker%2C+Kubernetes%2C+CI%2FCD;Machine+Learning+%E2%9A%99%EF%B8%8F+TensorFlow%2C+OpenCV%2C+Scikit-learn" alt="Tech Stack" />
 </p>
 
-<!-- Quick Introduction -->
+<!-- Call to Action -->
 <p align="center">
-  <i>I build robust applications that solve real-world problems</i>
+  <i>Open to collaborations, innovative projects, and challenging problems</i>
 </p>
 
 </div>
@@ -88,6 +91,7 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
