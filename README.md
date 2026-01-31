@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean Wave Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=scale&fontAlignY=40&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
 
 <!-- Dynamic Tech Stack Display -->
 <p align="center">
@@ -88,6 +88,7 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
