@@ -1,29 +1,28 @@
 <div align="center">
-  
-<!-- Animated Header with Tech Focus -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=200&section=header&text=Full+Stack+Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building+Scalable+Solutions+%7C+5%2B+Years+Experience&descAlignY=65&descAlign=50)
 
-<!-- Animated Typing with more varied lines -->
+<!-- Clean Wave Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=180&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontColor=ffffff&animation=scale&fontAlignY=40&desc=Full+Stack+Developer+%7C+Cloud+Architect+%7C+Problem+Solver&descAlignY=70&descAlign=50)
+
+<!-- Dynamic Tech Stack Display -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=60&lines=React+%7C+Node.js+%7C+Python+%7C+TypeScript;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;MongoDB+%7C+PostgreSQL+%7C+Redis+%7C+Firebase;Next.js+%7C+Django+%7C+Express+%7C+FastAPI;Turning+Complex+Problems+Into+Simple+Solutions" alt="Tech Stack & Philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=2F81F7&center=true&width=650&height=40&lines=Passionate+about+crafting+elegant+solutions;Specialized+in+Modern+Web+Technologies;Experienced+in+Scalable+Cloud+Architectures;Always+learning%2C+always+building" alt="Profile Description" />
 </p>
 
-<!-- Quick Stats -->
+<!-- Quick Introduction -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀-5%2B%20Years%20Experience-2F81F7?style=for-the-badge&logo=starship&logoColor=white" alt="Experience" />
-  <img src="https://img.shields.io/badge/💻-Full%20Stack-2F81F7?style=for-the-badge&logo=fullpage&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-2F81F7?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud DevOps" />
-  <img src="https://img.shields.io/badge/🤖-AI%2FML%20Enthusiast-2F81F7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML" />
+  <i>I build robust applications that solve real-world problems</i>
 </p>
 
-<!-- Social Links (moved up for better flow) -->
+<!-- Tech Pill Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/mohammadreza-arabameri-a1240561/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohammad94ameri@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
 </p>
 
 </div>
@@ -131,6 +130,7 @@ I'm a passionate **Full Stack Developer** with **5+ years of experience** crafti
 **🚀 Always open to exciting collaborations and new challenges!**
 
 </div>
+
 
 
 
