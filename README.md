@@ -5,7 +5,7 @@
 
 <!-- Glowing Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+Code.+Create.+Innovate.+%E2%9C%A6;%E2%9C%A6+Building+the+Impossible.+%E2%9C%A6;%E2%9C%A6+From+Ideas+to+Reality.+%E2%9C%A6;%E2%9C%A6+Full-Stack+%7C+Cloud+%7C+AI+%E2%9C%A6" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&height=60&lines=%E2%9C%A6+Code.+Create.+Innovate.+%E2%9C%A6;%E2%9C%A6+Full-Stack+%7C+Cloud+%7C+AI+%E2%9C%A6" alt="Typing Animation" />
 </p>
 
 <!-- Glowing Badges -->
