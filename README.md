@@ -51,15 +51,15 @@
 
 <div align="center">
 
-|  | Project | Try It |
-|--|---------|--------|
-| 🚀 | **Analytics Pro** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://analytics-pro-alpha.vercel.app/) |
-| 💰 | **Crypto Trade** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://crypto-trading-web-six.vercel.app/) |
-| 🥗 | **Personal Nutrition** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-nutrition-web.vercel.app/) |
-| 📱 | **Sim Connect** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://sim-card-one.vercel.app/) |
-| 🎵 | **iSound** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://i-sound-web-app.vercel.app/) |
-| 🤖 | **AI Chatbot** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://reza-mini-ai-chatbot.vercel.app/) |
-| 🛍️ | **E-Commerce** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-commerce-phi-ten-47.vercel.app/) |
+|  | Project |  |
+|--|---------|--|
+| ⭐ | **Analytics Pro** | [▶ Live Demo](https://analytics-pro-alpha.vercel.app/) |
+| ⭐ | **Crypto Trade** | [▶ Live Demo](https://crypto-trading-web-six.vercel.app/) |
+| ⭐ | **Personal Nutrition** | [▶ Live Demo](https://personal-nutrition-web.vercel.app/) |
+| ⭐ | **Sim Connect** | [▶ Live Demo](https://sim-card-one.vercel.app/) |
+| ⭐ | **iSound** | [▶ Live Demo](https://i-sound-web-app.vercel.app/) |
+| ⭐ | **AI Chatbot** | [▶ Live Demo](https://reza-mini-ai-chatbot.vercel.app/) |
+| ⭐ | **E-Commerce** | [▶ Live Demo](https://e-commerce-phi-ten-47.vercel.app/) |
 
 </div>
 
