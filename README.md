@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6a11cb&height=250&section=header&text=✦%20Digital%20Craftsmanship%20✦&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%7C%205%2B%20Years&descAlignY=70&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6a11cb&height=250&section=header&text=✦%20FullStack%20Engineer%20✦&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Full%20Stack%20%7C%20Cloud%20%7C%20DevOps%20%7C%205%2B%20Years&descAlignY=70&descSize=20" width="100%" />
 
 <!-- Glowing Typing Effect -->
 <p align="center">
