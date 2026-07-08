@@ -30,7 +30,7 @@
     <tr>
       <td width="60%">
         <h3>👋 Hello, I'm Mohammad!</h3>
-        <p>I'm a <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of experience crafting elegant, scalable solutions. I believe in writing code that's not just functional but <strong>beautiful</strong> — clean, maintainable, and built to last.</p>
+        <p>I'm a <strong>Full Stack Developer</strong> with <strong>5+ years</strong> of experience crafting elegant, scalable solutions. I believe in writing code that's not just functional but <strong>beautiful</strong> clean, maintainable, and built to last.</p>
         <br>
         <p>🎯 <strong>My superpower:</strong> Turning complex problems into simple, working solutions.</p>
         <p>🌱 <strong>Currently exploring:</strong> Advanced cloud architectures & AI/ML integration.</p>
@@ -51,15 +51,15 @@
 
 <div align="center">
 
-|  | Project | Stack | Try It |
-|--|---------|-------|--------|
-| 🚀 | **Analytics Pro** | React, D3, Node.js | [![Demo](https://img.shields.io/badge/✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://analytics-pro-alpha.vercel.app/) |
-| 💰 | **Crypto Trade** | Next.js, Express, MongoDB | [![Demo](https://img.shields.io/badge/✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://crypto-trading-web-six.vercel.app/) |
-| 🥗 | **Personal Nutrition** | React Native, Python, Firebase | [![Demo](https://img.shields.io/badge/✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-nutrition-web.vercel.app/) |
-| 📱 | **Sim Connect** | React, Django, PostgreSQL | [![Demo](https://img.shields.io/badge/✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://sim-card-one.vercel.app/) |
-| 🎵 | **iSound** | Electron, Express, Redis | [![Demo](https://img.shields.io/badge/✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://i-sound-web-app.vercel.app/) |
-| 🤖 | **AI Chatbot** | Python, TensorFlow, FastAPI | [![Demo](https://img.shields.io/badge/✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://reza-mini-ai-chatbot.vercel.app/) |
-| 🛍️ | **E-Commerce** | Next.js, Stripe, MongoDB | [![Demo](https://img.shields.io/badge/✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-commerce-phi-ten-47.vercel.app/) |
+|  | Project | Try It |
+|--|---------|--------|
+| 🚀 | **Analytics Pro** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://analytics-pro-alpha.vercel.app/) |
+| 💰 | **Crypto Trade** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://crypto-trading-web-six.vercel.app/) |
+| 🥗 | **Personal Nutrition** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-nutrition-web.vercel.app/) |
+| 📱 | **Sim Connect** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://sim-card-one.vercel.app/) |
+| 🎵 | **iSound** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://i-sound-web-app.vercel.app/) |
+| 🤖 | **AI Chatbot** | [![Demo](✨_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://reza-mini-ai-chatbot.vercel.app/) |
+| 🛍️ | **E-Commerce** | [![Demo](✨_Demo-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](https://e-commerce-phi-ten-47.vercel.app/) |
 
 </div>
 
@@ -91,8 +91,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-      <br>Node.js
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Sass
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
@@ -138,37 +138,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## ✦ GitHub Presence
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohammad9473&show_icons=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=6a11cb&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&hide_border=true&title_color=2F81F7&bg_color=0d1117&text_color=ffffff" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad9473&hide_border=true&stroke=2F81F7&ring=2F81F7&fire=6a11cb&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=ffffff&background=0d1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Animated Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Mohammad9473/count.svg" alt="Visitor Count" />
-</p>
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
 ## ✦ Connect With Me
 
 <div align="center">
@@ -203,9 +172,8 @@
 
 ### ✦ Let's Create Something Amazing ✦
 
-> *"Code is poetry. Let's write something beautiful together."*
+*"Code is poetry. Let's write something beautiful together."*
 
-[![Star](https://img.shields.io/badge/⭐_Star_This_Repo-2F81F7?style=for-the-badge)](https://github.com/Mohammad9473)
 [![Follow](https://img.shields.io/badge/🚀_Follow_Me-6a11cb?style=for-the-badge)](https://github.com/Mohammad9473)
 
 </div>
