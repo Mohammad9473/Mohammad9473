@@ -68,40 +68,6 @@
 ## ✦ Featured Projects
 
 <div align="center">
-
-<!-- Mobile Responsive Project Cards -->
-<div class="projects-container">
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>Analytics Pro</strong> → <a href="https://analytics-pro-alpha.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>Crypto Trade</strong> → <a href="https://crypto-trading-web-six.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>Personal Nutrition</strong> → <a href="https://personal-nutrition-web.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>Sim Connect</strong> → <a href="https://sim-card-one.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>iSound</strong> → <a href="https://i-sound-web-app.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>AI Chatbot</strong> → <a href="https://reza-mini-ai-chatbot.vercel.app/">▶ Live Demo</a>
-  </div>
-  
-  <div class="project-card">
-    <span>⭐</span> <strong>E-Commerce</strong> → <a href="https://e-commerce-phi-ten-47.vercel.app/">▶ Live Demo</a>
-  </div>
-
-</div>
-
 <!-- Original Table for Desktop -->
 <table class="projects-table">
   <thead>
