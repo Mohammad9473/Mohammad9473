@@ -1,30 +1,29 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6a11cb&height=220&section=header&text=Mohammad%20Arabameri&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Engineer&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:6a11cb&height=220&section=header&text=Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Mohammad Arabameri
-
-Full Stack Engineer • Cloud • DevOps
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications;React+%7C+Next.js+%7C+Node.js;Cloud+and+Modern+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;React+%7C+Next.js+%7C+Node.js;Cloud+%7C+DevOps)](https://git.io/typing-svg)
 
 </div>
 
----
-
 ## About
 
-I'm a Full Stack Engineer with more than five years of experience building scalable web applications and backend services. I enjoy creating clean, maintainable software with a strong focus on performance, usability, and long-term reliability.
+Full Stack Engineer with 5+ years of experience building scalable web applications and backend systems. I enjoy writing clean, maintainable code and designing solutions that are reliable and easy to extend.
 
-Current interests include cloud architecture, distributed systems, and AI-powered applications.
+**Focus**
+
+- React, Next.js, TypeScript
+- Node.js, Python
+- AWS, Docker, Kubernetes
+- REST APIs and Microservices
 
 ---
 
 ## Featured Projects
 
-| Project | Demo |
-|---------|------|
+| Project | Live |
+|---|---|
 | Analytics Pro | https://analytics-pro-alpha.vercel.app/ |
 | Crypto Trade | https://crypto-trading-web-six.vercel.app/ |
 | Personal Nutrition | https://personal-nutrition-web.vercel.app/ |
@@ -37,56 +36,38 @@ Current interests include cloud architecture, distributed systems, and AI-powere
 
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,django,python,tailwind,redux,mongodb,postgres,mysql,redis,docker,kubernetes,aws,terraform,linux,git,github,githubactions,nginx,postman,vscode,figma&perline=8" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,django,tailwind,redux,mongodb,postgres,mysql,redis,docker,kubernetes,aws,terraform,linux,git,github,githubactions,nginx,postman,vscode,figma&perline=8"/>
+</p>
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammad9473&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad9473&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Mohammad9473&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad9473&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## Contact
 
-<div align="center">
+<p align="center">
+<a href="https://linkedin.com/in/mohammadreza-arabameri-a1240561"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammad94ameri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Mohammad9473"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<a href="https://linkedin.com/in/mohammadreza-arabameri-a1240561">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mohammad9473&style=for-the-badge&color=2F81F7"/>
+</p>
 
-<a href="mailto:mohammad94ameri@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Mohammad9473">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mohammad9473&style=for-the-badge&color=2F81F7" />
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2F81F7&height=120&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2F81F7&height=120&section=footer"/>
