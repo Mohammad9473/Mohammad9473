@@ -58,10 +58,6 @@ Full Stack Engineer with 5+ years of experience designing and building scalable 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mohammad9473&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad9473&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com?user=Mohammad9473&theme=tokyonight&hide_border=true" width="80%" />
-
 </div>
 
 ---
